@@ -13,5 +13,10 @@ export FLASK_APP=application.py
 export API_KEY=pk_7dbf239de0c34920905ac2112f81db74
 flask run
 ```
+
+Menggunakan CS50 python library
+(hanya bisa di-install di Linux / Mac OS)
+<https://cs50.readthedocs.io/libraries/cs50/python/>
+
 # Link
 [CS50 web track](https://cs50.harvard.edu/x/2020/tracks/web/finance/)

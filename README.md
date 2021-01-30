@@ -10,7 +10,7 @@ Website ini dibuat menggunakan:
 Tuliskan line berikut untuk menjalankan flask
 ```
 export FLASK_APP=application.py
-export API_KEY=pk_7dbf239de0c34920905ac2112f81db74
+export API_KEY=<IEX API KEY>
 flask run
 ```
 
